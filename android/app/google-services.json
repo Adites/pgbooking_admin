@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780651320428",
+    "project_id": "pgbookingapp-b6b19",
+    "storage_bucket": "pgbookingapp-b6b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780651320428:android:59f98b237607a9e4073449",
+        "android_client_info": {
+          "package_name": "com.example.pgbooking_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfD17vOlzYFVIE8mpYRjefZcKRWk8tKYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
